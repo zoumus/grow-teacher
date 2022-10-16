@@ -14,14 +14,14 @@ Teachers in public schools need to use their personal finances to make up for th
 * Most pages can only be accessed when logged in, or when logged out
 * Login errors will display
 
-![](https://github.com/loFiWaterCat/grow-teacher/blob/readme/images/Screen-Recording-2022-10-09-at-9.gif)
+![](https://github.com/zoumus/grow-teacher/blob/main/images/Screen-Recording-2022-10-09-at-9.gif)
 
 ### Create, Read, Update, and Delete Post
 * Logged in users can create posts with images
 * Images attached by a user are saved to the database and stored in an AWS S3 bucket
 * All posts are displayed on the post index page and posts created by the logged in user display update and delete options on the post show page
 
-![](https://github.com/loFiWaterCat/grow-teacher/blob/readme/images/ezgif.com-gif-maker.gif)
+![](https://github.com/zoumus/grow-teacher/blob/main/images/ezgif.com-gif-maker.gif)
 
 ### Create, Read, Update, and Delete Comment
 * Logged in users can comment on posts
